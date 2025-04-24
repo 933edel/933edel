@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **2096siddharth@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12d5W5FMs-3OWANuBbRjfu6ZFFEdv9C9t/view?usp=drivesdk](https://drive.google.com/file/d/12d5W5FMs-3OWANuBbRjfu6ZFFEdv9C9t/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pYy64HmqRBCySEla_LLA6HUZP4yedDCT/view?usp=sharing](https://drive.google.com/file/d/1pYy64HmqRBCySEla_LLA6HUZP4yedDCT/view?usp=sharing)
 
 - ⚡ Fun fact **DSA is pretty fun**
 
