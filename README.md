@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **React Native, System Design**
+- 🌱 I’m currently learning ** System Design**
 
 - 💬 Ask me about **ReactJs, NextJs**
 
 - 📫 How to reach me **2096siddharth@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1co7P6ioEsL79y_-_aZsnEtc_Z_JZ6ieC/view?usp=sharing](https://drive.google.com/file/d/1co7P6ioEsL79y_-_aZsnEtc_Z_JZ6ieC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1c9wxRsTJIomZPCKq9q43imXVkynnzv_L/view?usp=sharing](https://drive.google.com/file/d/1c9wxRsTJIomZPCKq9q43imXVkynnzv_L/view?usp=sharing)
 
 - ⚡ Fun fact **DSA is pretty fun**
 
