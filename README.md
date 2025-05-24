@@ -14,6 +14,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c9wxRsTJIomZPCKq9q43imXVkynnzv_L/view?usp=sharing](https://drive.google.com/file/d/1c9wxRsTJIomZPCKq9q43imXVkynnzv_L/view?usp=sharing)
 
+- 🌐 Check out my portfolio: [933edel.github.io/my-portfolio](https://933edel.github.io/my-portfolio)
+
 - ⚡ Fun fact **DSA is pretty fun**
 
 <h3 align="left">Connect with me:</h3>
