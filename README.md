@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **2096siddharth@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G2niRNcoFJSYoMwZZjrlPNNP9eEZ_Twi/view?usp=sharing](https://drive.google.com/file/d/1G2niRNcoFJSYoMwZZjrlPNNP9eEZ_Twi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qMWBIwnAqgbc2I0fi46Rc2LXflUflS5y/view?usp=sharing](https://drive.google.com/file/d/1qMWBIwnAqgbc2I0fi46Rc2LXflUflS5y/view?usp=sharing)
 
 - 🌐 Check out my portfolio: [933edel.github.io/my-portfolio](https://933edel.github.io/my-portfolio)
 
